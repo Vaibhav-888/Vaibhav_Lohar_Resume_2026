@@ -4,14 +4,14 @@
   <p><strong>Python Developer</strong></p>
   <p>📍 Mumbai, India | 📞 +91 9325585853 | 📧 <a href="mailto:vaibhavlohar10@outlook.com">vaibhavlohar10@outlook.com</a></p>
   <p><a href="https://www.linkedin.com/in/vvvvvlohar" target="_blank">LinkedIn Profile</a></p>
-  <p><a href="30069182_Vaibhav_Lohar_Python_Dev.pdf" target="_blank" style="color:#FF5722; font-weight:bold;">📄 View My Resume (PDF)</a></p>
+  <p><a href="https://github.com/Vaibhav-888/Vaibhav_Lohar_Resume_2026/blob/main/Vaibhav_Lohar_Software_Engg_Resume_2026.pdf" target="_blank" style="color:#FF5722; font-weight:bold;">📄 View My Resume (PDF)</a></p>
 </div>
 
 <hr>
 
 <h2 style="color:#2196F3;">🎯 Objective</h2>
 <p>
-Experienced Python Developer with 3.6+ years of hands-on expertise in building scalable applications. Skilled in Python, FastAPI, Flask, SQL, Linux, and API integration. Strong foundation in data structures, algorithms, and OOP. Passionate about delivering high-quality code and driving innovation in agile environments.
+Experienced Python Developer with 3.10+ years of hands-on expertise in building scalable applications. Skilled in Python, FastAPI, Flask, SQL, Linux, and API integration. Strong foundation in data structures, algorithms, and OOP. Passionate about delivering high-quality code and driving innovation in agile environments.
 </p>
 
 <h2 style="color:#2196F3;">💼 Experience</h2>
