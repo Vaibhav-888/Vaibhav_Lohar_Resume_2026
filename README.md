@@ -4,7 +4,9 @@
   <p><strong>Python Developer</strong></p>
   <p>📍 Mumbai, India | 📞 +91 9325585853 | 📧 <a href="mailto:vaibhavlohar10@outlook.com">vaibhavlohar10@outlook.com</a></p>
   <p><a href="https://www.linkedin.com/in/vvvvvlohar" target="_blank">LinkedIn Profile</a></p>
-  <p><a href="https://github.com/Vaibhav-888/Vaibhav_Lohar_Resume_2026/blob/main/Vaibhav_Lohar_Software_Engg_Resume_2026.pdf" target="_blank" style="color:#FF5722; font-weight:bold;">📄 View My Resume (PDF)</a></p>
+  <p><a href="https://github.com/Vaibhav-888/Vaibhav_Lohar_Resume_2026/blob/main/Vaibhav_Lohar_Software_Engg_Resume_2026.pdf" target="_blank" style="color:#FF5722; font-weight:bold;">📄 View My Resume (PDF)</a></p><a
+href="https://raw.githubusercontent.com/Vaibhav-888/Vaibhav_Lohar_Resume_2026/main/Vaibhav_Lohar_Software_Engg_Resume_2026.pdf">📥 **[Download Resume (PDF)]**</a>
+
 </div>
 
 <hr>
